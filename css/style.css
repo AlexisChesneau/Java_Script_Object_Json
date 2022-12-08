@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 200px;
+}
+
+#sectionProduits {
+    background-color: #dddddd;
+    width: 70%;
+    padding: 15px;
+    display: flex;
+    justify-content: space-around;
+}
+
+article {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: white;
+}
